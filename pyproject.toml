@@ -5,5 +5,6 @@ description = "WebSocket server with Fibonacci processing"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "asyncio==3.4.3",
     "websockets==12.0",
 ]
