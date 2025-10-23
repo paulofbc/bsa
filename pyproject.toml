@@ -1,7 +1,9 @@
 [project]
 name = "bsa"
 version = "0.1.0"
-description = "Add your description here"
+description = "WebSocket server with Fibonacci processing"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "websockets==12.0",
+]
