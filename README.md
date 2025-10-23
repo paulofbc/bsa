@@ -56,7 +56,3 @@ After connecting to the server, you can use the following commands:
 fib <n>  - Calculate the Fibonacci number of n
 quit     - Disconnect and exit
 ```
-
-
-## Communication protocol
-Messages from Server to Client
