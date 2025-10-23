@@ -13,7 +13,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 2. Create virtual environment and install dependencies:
 ```bash
 uv venv
-uv run pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 3. Run the server:
